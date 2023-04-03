@@ -2,7 +2,7 @@
   "name": "Lords Films TM",
   "description": "Lords Films TM",
   "short_name": "LFTM",
-  "start_url": "/",
+  "start_url": "https://lordsfilms.github.io/",
   "lang": "ru",
   "theme_color": "#00f",
   "display": "standalone",
